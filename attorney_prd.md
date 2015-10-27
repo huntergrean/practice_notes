@@ -53,12 +53,18 @@ The registered attorney homepage is the primary homepage for the attorney app.
 * New questions
 * Clients
 * Profile
-* 
+* Community
 
-### 4. View questions 
+### 5. New questions 
 
-After saving a profile, Bruce can now view questions with additional abilities:
-* View answers
+Bruce selects *New Questions*
+**Screen 1:** On the top there is a Nav bar that displays: New Questions >> Display *Answered* and *unanswered*
+
+Both *Answered* and *unanswered* are links to be able to filter the questions viewed
+
+Below the nav bar [LEFT OFF HERE]
+
+View answers
 * Rate posted answers
 * Post a new answer
 
