@@ -58,15 +58,15 @@ The registered attorney homepage is the primary homepage for the attorney app.
 ### 5. New questions 
 
 Bruce selects *New Questions*
-**Screen 1:** On the top there is a Nav bar that displays: New Questions >> Display *Answered* and *unanswered*
+**Screen 1:** On the top or bottom there is a Nav bar that displays: New Questions >> All practice areas >> Display *Answered* and *unanswered*
 
-Both *Answered* and *unanswered* are links to be able to filter the questions viewed
+*All practice areas* and *Answered* and *unanswered* are links to be able to filter the questions viewed
 
-Below the nav bar [LEFT OFF HERE]
+On the page itself will be a preview of the question. A preview of the answer and the answer's rating. Scrolling down will reveal more questions. 
+Bruce clicks on an answered question.
 
-View answers
-* Rate posted answers
-* Post a new answer
+**Screen 2:** Answered question  [left off here]
+
 
 ### 5. Client consultation
 
