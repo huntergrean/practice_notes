@@ -22,12 +22,14 @@ and restructure/modify the terms of financing on their housing. Bruce downloads 
 ### 1. Registration
 
 Bruce must create an account by entering his bar membership ID (which must be validated), state, areas of practice, and name
-Screen 1: text fields for bar ID, name with drop down menu selections for state and practice areas
+
+**Screen 1:** text fields for bar ID, name with drop down menu selections for state and practice areas
 
 ### 2. View questions
 
 Bruce gets to view the latest posted questions and answers while his identity and practice status is being verified.
-Screen 1: a scrollable text field showing question previews and answer previews, sorted by last modified date and grouped by practice area. Tapping on a qa pair will expose the full text of both. 
+
+**Screen 1:** a scrollable text field showing question previews and answer previews, sorted by last modified date and grouped by practice area. Tapping on a qa pair will expose the full text of both. 
 
 ### 3. Edit profile
 
@@ -41,7 +43,17 @@ Upon verification of identity, Bruce is prompted to modify his profile. The mini
 * law firm association
 
 **Screen 1:** text fields for the above information with a photo upload button. At the bottom is a save button. None of these additional fields are required. 
-The next screen should be the registered attorney home page. 
+After saving, the next screen should be the registered attorney home page. 
+
+### 4. Registered attorney homepage
+
+The registered attorney homepage is the primary homepage for the attorney app. 
+**Screen 1:** 
+
+* New questions
+* Clients
+* Profile
+* 
 
 ### 4. View questions 
 
