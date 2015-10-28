@@ -80,7 +80,20 @@ The top of this screen will contain a link to go back to the main questions page
 
 Bruce writes a response to the unanswered question and clicks post. He is returned to the main questions page.
 
-### 5. Client consultation
+Bruce goes back to the esqry attorney homepage via the nav bar.
+
+### 6. Clients
+
+Bruce selects clients from the homepage.
+
+**Screen 1:** The client list screen contains a list of all of the clients that Bruce has interacted with. There are multiple sorting options which include:
+* By date
+* By interaction type
+* By practice area
+
+The top of the screen contains a nav bar [left off here]
+
+Client consultation
 
 After posting an answer, a client can message or call Bruce to discuss specifics of their case. These messages are encrypted and saved. 
 During the consultation, Bruce can take notes to share with the client. 
