@@ -48,25 +48,37 @@ After saving, the next screen should be the registered attorney home page.
 ### 4. Registered attorney homepage
 
 The registered attorney homepage is the primary homepage for the attorney app. 
-**Screen 1:** 
 
-* New questions
+**Screen 1:** 
+This screen has 5 buttons that contain the main categories for attorney-side app and an additional page for app settings.
+
+* Questions
 * Clients
 * Profile
 * Community
+* Settings
 
 ### 5. New questions 
 
-Bruce selects *New Questions*
+Bruce selects *Questions*
+
 **Screen 1:** On the top or bottom there is a Nav bar that displays: New Questions >> All practice areas >> Display *Answered* and *unanswered*
 
 *All practice areas* and *Answered* and *unanswered* are links to be able to filter the questions viewed
 
-On the page itself will be a preview of the question. A preview of the answer and the answer's rating. Scrolling down will reveal more questions. 
+On the page itself will be a preview of the question, a preview of the answer and the answer's rating. Scrolling down will reveal more questions. 
 Bruce clicks on an answered question.
 
-**Screen 2:** Answered question  [left off here]
+**Screen 2:** Answered question  
 
+The top of this screen will contain a link to go back to the main questions page. Below is the question in its entirety in bolded text and the date it was asked. The bottom will contain the answering attorney's photograph (if uploaded), their name, their answer, the date of their answer, the answer's current score and a button to "like" the answer if Bruce has not previously liked the answer.
+Below the answer is a comment button that allows Bruce to comment on the given answer. Bruce likes the answer, and the number of likes goes up. He then clicks the link to go back to the main questions page and clicks on an unanswered question.
+
+**Screen 3:** Unanswered question
+
+The top of this screen will contain a link to go back to the main questions page. Below is the question in its entirety in bolded text and the date it was asked. Below that will contain a prompt: *Be the first to answer* and a text box with a **post** button
+
+Bruce writes a response to the unanswered question and clicks post. He is returned to the main questions page.
 
 ### 5. Client consultation
 
