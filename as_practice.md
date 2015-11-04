@@ -1,4 +1,4 @@
-# PRD: esqry for Attorneys
+# practice notes _a_ side
 
 ## Target profile
 Any attorney that handles individuals clients in the following areas:
@@ -16,20 +16,19 @@ These attorneys will likely be more tech savvy and willing to try out new method
 They may work independently or work in a firm which is likely to be smaller in size.
 
 ## User walkthrough- Version: V1 (MVP)
-Bruce is a real estate transactions attorney who mostly helps people refinance mortgages 
-and restructure/modify the terms of financing on their housing. Bruce downloads esqry for lawyers.
+Alice is an immigration attorney who advises and helps people through the visa and naturalization process.
 
 ### 1. Registration
 
-Bruce must create an account by entering his bar membership ID (which must be validated), state, areas of practice, and name
+Alice must create an account by entering her bar membership ID (which must be validated), state, areas of practice, and name
 
-**Screen 1:** text fields for bar ID, name with drop down menu selections for state and practice areas
+**Screen 1:** text fields for bar ID, name with drop down menu selections for state and practice areas. These drop down menus will be restricted to the determined initial geographies and practice areas for initial launch.
 
 ### 2. View questions
 
-Bruce gets to view the latest posted questions and answers while his identity and practice status is being verified.
+Alice gets to view the latest posted questions and answers in a read only mode while her identity and practice status is being verified.
 
-**Screen 1:** a scrollable text field showing question previews and answer previews, sorted by last modified date and grouped by practice area. Tapping on a qa pair will expose the full text of both. 
+**Screen 1:** a scrollable text field showing question previews and answer previews, sorted by last modified date and grouped by practice area. Tapping on a qa pair will expose two pop-up buttons: "View" to show the full text of both and "Cancel" to cancel the action.
 
 ### 3. Edit profile
 
