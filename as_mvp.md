@@ -46,7 +46,7 @@ This screen has 3 buttons that contain the main categories for attorney-side app
 
  *Answered* and *unanswered* are links to be able to filter the questions viewed
 
-On the page itself will be a preview of the question, a preview of the answer. Scrolling down will reveal more questions. 
+On the page itself will be a preview of the first question, a preview of the answer if answered. If not, then "UNANSWERED" will appear next to it. Scrolling down will reveal more questions. 
 
 **Screen 2:** Answered question  
 
