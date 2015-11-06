@@ -1,73 +1,52 @@
-# PRD: esqry for Attorneys
+# PRD: a-side mvp
 
 ## Target profile
 Any attorney that handles individuals clients in the following areas:
-* Bankruptcy and debt
-* Business
-* Criminal defense
-* Employment and labor
-* Family
 * Immigration
-* Real estate
-* Landlord and tenant
-* Trusts, wills, and estates
-
-These attorneys will likely be more tech savvy and willing to try out new methods to get clients. 
+These attorneys will likely be younger, more tech savvy, and willing to try out new methods to get clients. 
 They may work independently or work in a firm which is likely to be smaller in size.
 
 ## User walkthrough- Version: V1 (MVP)
-Bruce is a real estate transactions attorney who mostly helps people refinance mortgages 
-and restructure/modify the terms of financing on their housing. Bruce downloads esqry for lawyers.
+Alice is an immigration attorney who assists individuals with: 
+* obtaining visas 
+* gaining US citizenship
+* defend the rights of immigrants
+* navigate the issues of illegal immigration
+Alice also assists businesses with 
+* understanding immigration issues for their current and prospective employees
 
-### 1. Registration
+### 1. Registration (1 screen)
 
-Bruce must create an account by entering his bar membership ID (which must be validated), state, areas of practice, and name
+The registration screen contains the following fields:
 
-**Screen 1:** text fields for bar ID, name with drop down menu selections for state and practice areas
+* text fields for bar ID, name, and email
+* drop down menu for state
+* radio buttons for practice areas
 
-### 2. View questions
+### 2. Registration verification (1 screen)
 
-Bruce gets to view the latest posted questions and answers while his identity and practice status is being verified.
+While identity and practice status are being verified, a screen will display the following message:
 
-**Screen 1:** a scrollable text field showing question previews and answer previews, sorted by last modified date and grouped by practice area. Tapping on a qa pair will expose the full text of both. 
+"We are currently verifying your bar membership and identification. We will notify you with a status update soon!"
 
-### 3. Edit profile
+### 3. Registered attorney homepage (1 screen)
 
-Upon verification of identity, Bruce is prompted to modify his profile. The minimum details collected earlier will pre-populate the fields on this screen. Additional fields will include:
-* education background
-* languages spoken
-* years of practice
-* Additional certifications
-* contact information
-* photo
-* law firm association
+The registered attorney homepage is the primary homepage for the attorney-side app. 
 
-**Screen 1:** text fields for the above information with a photo upload button. At the bottom is a save button. None of these additional fields are required. 
-After saving, the next screen should be the registered attorney home page. 
-
-### 4. Registered attorney homepage
-
-The registered attorney homepage is the primary homepage for the attorney app. 
-
-**Screen 1:** 
-This screen has 5 buttons that contain the main categories for attorney-side app and an additional page for app settings.
+This screen has 3 buttons that contain the main categories for attorney-side app and an additional page for app settings.
 
 * Questions
 * Clients
 * Profile
-* Community
 * Settings
 
-### 5. New questions 
+### 5. Questions (3 screens)
 
-Bruce selects *Questions*
+**Screen 1:**  Nav bar that displays: New Questions >> Display *Answered* and *unanswered*
 
-**Screen 1:** On the top or bottom there is a Nav bar that displays: New Questions >> All practice areas >> Display *Answered* and *unanswered*
+ *Answered* and *unanswered* are links to be able to filter the questions viewed
 
-*All practice areas* and *Answered* and *unanswered* are links to be able to filter the questions viewed
-
-On the page itself will be a preview of the question, a preview of the answer and the answer's rating. Scrolling down will reveal more questions. 
-Bruce clicks on an answered question.
+On the page itself will be a preview of the question, a preview of the answer. Scrolling down will reveal more questions. 
 
 **Screen 2:** Answered question  
 
